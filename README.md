@@ -9,3 +9,4 @@ A PyQt/Python program that automates the painful process of downloading files fr
 > - Wait for the installer to finish (It might take several minutes).
 > - Type **"Python main.py"** to start the program, the interface is straight forward and simple to use.
 > - Choose a subject and click download to start downloading the exam files for that subject.
+![alt text](https://i.ibb.co/4sHXd1Z/ency-scraper.png)
